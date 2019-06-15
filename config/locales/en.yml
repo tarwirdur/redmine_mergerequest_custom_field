@@ -1,3 +1,5 @@
 # English strings go here for Rails i18n
 en:
   label_mergerequest: "Merge request"
+  mr_url_pattern: "Url template"
+  mr_url_pattern_info: "Use {} as a placeholder"

@@ -1,3 +1,0 @@
-= redmine_mergerequest_custom_field
-
-Description goes here
